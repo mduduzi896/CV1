@@ -1,0 +1,45 @@
+body {
+  background-color: #fff;
+  font-family: "Montserrat-black" sans-serif;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #4cd3c2;
+  text-align: left;
+  font-family: "ubuntu"sans-serif;
+  z-index: 2;
+}
+
+h1 {
+  font-family: "Montserrat-bold"sans-serif;
+  font-size: 6rem;
+  padding-top: 50px;
+  z-index: 2;
+  text-align: left;
+}
+
+h2 {
+  font-family: "ubuntu"sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.image {
+  padding-left: 100px;
+  width: 100%;
+  position: relative;
+  margin-left: 300px;
+  z-index: 1;
+  border-radius: 100%;
+
+
+}
+.Contact{
+  text-align: center;
+}
+.Table{
+  text-align: center;
+  padding-left: 650px;
+  padding-top: 30px;
+}
